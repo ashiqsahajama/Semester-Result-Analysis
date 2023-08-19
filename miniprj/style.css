@@ -1,0 +1,31 @@
+.bod {
+  background: #094d90;
+  font-family: Assistant, sans-serif;
+  display: flex;
+  min-height: 90vh;
+}
+.login {
+  color: white;
+ background: #136a8a;
+  background: 
+    linear-gradient(to right, #267871, #136a8a);
+  margin: auto;
+  box-shadow: 
+    0px 2px 10px rgba(0,0,0,0.2), 
+    0px 10px 20px rgba(0,0,0,0.3), 
+    0px 30px 60px 1px rgba(0,0,0,0.5);
+  border-radius: 8px;
+  padding: 100px;
+}
+.bb {
+  background-color: #3e3ec1;
+  border-radius: 3px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+
